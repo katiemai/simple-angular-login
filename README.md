@@ -1,7 +1,7 @@
 # Simple
 
 Followed this [Tutorial](https://www.positronx.io/create-login-ui-template-with-angular-8-material-design/).
-[Source Code](https://github.com/SinghDigamber/angular-material-login-template)
+Source Code[here](https://github.com/SinghDigamber/angular-material-login-template)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
 
